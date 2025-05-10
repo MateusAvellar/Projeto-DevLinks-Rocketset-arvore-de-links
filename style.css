@@ -23,6 +23,7 @@
     --surface-color-hover:rgba(255, 255, 255, 0.05)
     --highlight-color:  rgba(77, 2, 54, 0.724);
     --switch-bg-url: url(./Assets/sun.svg)
+     --switch-bg-url: url(./Assets/moon-stars.svg)
 }
 
 body{
